@@ -1,6 +1,6 @@
 # Hi!
-Hello, my name is @Itzmefoxy \n
-I'm just chill in on Github :) \n
+Hello, my name is @Itzmefoxy <br/>
+I'm just chill in on Github :) <br/>
 Wanna collab with me? DM Me at DIscord foxyboy37#2464 ;O
 
 # Codes
